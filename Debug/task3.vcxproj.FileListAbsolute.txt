@@ -1,0 +1,2 @@
+D:\Git\task3\Debug\task3.exe
+D:\Git\task3\Debug\task3.pdb
