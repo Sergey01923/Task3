@@ -1,3 +1,0 @@
-﻿  main.cpp
-D:\Git\task3\main.cpp(65): warning C4715: FTree::minimumKey: значение возвращается не при всех путях выполнения
-  task3.vcxproj -> D:\Git\task3\Debug\task3.exe
